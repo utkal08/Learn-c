@@ -1,0 +1,10 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "stdio.h": "c",
+        "typeinfo": "c",
+        "revision4_45.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "code-runner.saveAllFilesBeforeRun": true
+}
